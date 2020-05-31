@@ -1,2 +1,2 @@
-# web-dev-tutorials.github.io
+# riteshkhrn.github.io
 Publishing website to github
